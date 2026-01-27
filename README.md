@@ -1,5 +1,5 @@
 # Spatial Anchor System Rebuild
-
+[繁體中文] | [English](README_English.md)
 ---
 
 ## 📌 專案說明
