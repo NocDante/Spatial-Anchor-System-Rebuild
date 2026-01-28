@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Spatial Anchor Rebuild.sln"
+    "dotnet.defaultSolution": "Spatial Anchor System Rebuild.sln"
 }
